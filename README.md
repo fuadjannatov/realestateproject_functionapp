@@ -14,7 +14,7 @@ The project gathers ads of aparments for both on sale and rent.
 * Authenticates with Azure SQL server, inserts collected data points row by row
 
 ## Power BI Dashboard collects the data from Azure SQL server
-* <img src="https://link(https://i.postimg.cc/bv5vvjJy/PBI.png)" width="100" height="100"/>
+* <img src="https://i.postimg.cc/bv5vvjJy/PBI.png" width="200" height="200" alt="Power BI Dashboard">
 * [Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTc5MjJiNmUtZWJmMC00NTNmLTgyZmQtMjNkNTkxYzU3MzM3IiwidCI6Ijg2NzI4NzZhLWMwNWYtNDVhMC1iN2Y5LTgxMjRiN2JjZjU0YSIsImMiOjl9)
 
 ## Contributing
