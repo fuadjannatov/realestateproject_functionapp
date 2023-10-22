@@ -15,8 +15,8 @@ The project gathers ads of aparments for both on sale and rent.
 
 ## Power BI Dashboard collects the data from Azure SQL server
 * The report has 2 dashboards: for apartments on sale (page 1) and for rent (page 2)
-* <img src="https://i.postimg.cc/bv5vvjJy/PBI.png" width="700" height="400" alt="Power BI Dashboard">
 * [Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTc5MjJiNmUtZWJmMC00NTNmLTgyZmQtMjNkNTkxYzU3MzM3IiwidCI6Ijg2NzI4NzZhLWMwNWYtNDVhMC1iN2Y5LTgxMjRiN2JjZjU0YSIsImMiOjl9)
+* <img src="https://i.postimg.cc/bv5vvjJy/PBI.png" width="700" height="400" alt="Power BI Dashboard">
 
 ## Contributing
 Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
