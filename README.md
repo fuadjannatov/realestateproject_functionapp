@@ -8,7 +8,7 @@ The project gathers ads of aparments for both on sale and rent.
 
 
 ## The project flow
-* Timer triggered script at  Azure Function App
+* Timer triggered script at  Azure Function App, choosing the least busy server time
 * Generates 10 links for scraping
 * Scrapes, cleans and prepares the collected data using bs4, regex and pandas accordingly
 * Authenticates with Azure SQL server, inserts collected data points row by row
