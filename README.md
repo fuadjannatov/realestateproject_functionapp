@@ -15,6 +15,7 @@ The repository contains Baku Real Estate Market Analysis project, explaining the
 * Authenticates with Azure SQL server, inserts collected data points row by row
 
 ## Power BI Dashboard collects the data from Azure SQL server
+* [![PBI.png](https://i.postimg.cc/bv5vvjJy/PBI.png)](https://postimg.cc/5HwJPTLT)
 * [Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTc5MjJiNmUtZWJmMC00NTNmLTgyZmQtMjNkNTkxYzU3MzM3IiwidCI6Ijg2NzI4NzZhLWMwNWYtNDVhMC1iN2Y5LTgxMjRiN2JjZjU0YSIsImMiOjl9)
 
 ## Contributing
