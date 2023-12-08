@@ -21,4 +21,4 @@ The project gathers ads of aparments for both on sale and rent.
 ## Contributing
 Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## The project was completed during mentorship provided by Davide Pollicino from Mentorcruise.
+# The project was completed during mentorship provided by Davide Pollicino from Mentorcruise.
