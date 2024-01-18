@@ -237,7 +237,7 @@ def transform (df):
 df.drop(df.index, inplace=True)
 
 import random
-ad_list = random.sample(range(3600000, 3900000), 10)
+ad_list = random.sample(range(3900000, 4150000), 15)
 logging.info(f'{ad_list}')
 predata = export_to_df(ad_list)
 
